@@ -7,8 +7,11 @@
 [![Flask](https://img.shields.io/badge/Flask-3.0-000000?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Tests](https://img.shields.io/badge/Tests-31_passed-brightgreen?style=flat&logo=pytest&logoColor=white)](tests/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Online-brightgreen?style=flat&logo=rocket&logoColor=white)](http://72.62.41.23:5000)
 
 A web-based security testing tool that lets you explore and understand prompt injection attacks in real time. Powered by [ClawGuard](https://github.com/joergmichno/clawguard) detection patterns.
+
+**[Live Demo →](http://72.62.41.23:5000)**
 
 ---
 

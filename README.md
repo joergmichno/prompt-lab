@@ -153,6 +153,7 @@ The live demo at [prompttools.co](https://prompttools.co) runs as a Docker conta
 ## Related Projects
 
 - **[ClawGuard](https://github.com/joergmichno/clawguard)** — Full CLI security scanner (38+ patterns, 53 tests)
+- **[ClawGuard Shield](https://github.com/joergmichno/clawguard-shield)** — Security scanning REST API ([Live API](https://prompttools.co/api/v1/))
 - **[DocQA](https://github.com/joergmichno/docqa)** — RAG-based document Q&A tool
 
 ## License
